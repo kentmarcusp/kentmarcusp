@@ -1,6 +1,6 @@
 ## Hello there :grey_exclamation:
 
-#### My name is Kent-Marcus Pluutus and I am a second-year undergraduate at Tallinn University of Technology.
+#### My name is Kent-Marcus Pluutus and I am a third-year undergraduate at Tallinn University of Technology.
   #### Currently specializing in IT system development. 
 
 
